@@ -1,23 +1,40 @@
 h1 {
     color:gold;
+    background-color: black;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
 }
 h3 {
     color:yellow;
+    background-color: black;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
 }
 h4 {
     color:blue;
+    background-color: black;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
 }
 p {
     color:yellowgreen;
+    background-color: black;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
 }
 a {
     color:darkblue;
+    background-color: black;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
 }
 img {
     width: 400px;
-}
-#spanH1 {
-    background-color: black;
 }
 #spanId {
     font-size: 18px;
