@@ -1,0 +1,2 @@
+Arrays:
+    Los arrays o arreglos son variables, pero en vez de almacenar un valor o elemento, almacenan multiples separados por comas unos de otros y adentro de corchetes [].

@@ -1,0 +1,20 @@
+Objetos:
+    Es una coleccion de datos que se escriben como clave:valor como por ejemplo "usuario:ngpalma" "contraseña:******" y pueden contener incluso arreglos y funciones dentro de el.
+
+
+Propiedades: 
+    Las propiedades son las palabras clave que estan adentro de los objetos como por ejemplo "usuario" y para llamarlas se usa un punto(.) Como por ejemplo Objeto.usuario que en este caso mostraria "ngpalma"
+
+
+Métodos:
+    Los metodos son funciones que estan dentro de un objeto y pertenecen a el. Y para que funcione se lo invoca con parentesis(). Ejemplo Objeto.clave()
+
+
+Bucle for…in: 
+    Es el bucle for pero de los objetos. Lo que hace es recorrer todas las claves del objeto hasta la ultima y finalizar.
+
+
+Notación de puntos vs notación de corchetes:
+    Con la notacion de puntos llamamos a cada clave dentro del objeto.
+    Con la notacion de corchetes se puede usar una cadena o numro o una variable que contenga una cadena o numero. Tambien se puede llamar a cada clave del objeto envolviendola entre comillas""
+

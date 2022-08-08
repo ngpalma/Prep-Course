@@ -1,0 +1,7 @@
+prototype:
+    Los objetos en JavaScript heredan caracteristicas unos de otros y a eso se le llama prototype.
+    Un prototype permite que no se repitan las mismas funciones para cada objeto y asi consuman memoria. Es decir, sobre una misma funcion pueden trabajar varios objetos.
+
+
+Constructors (de Clases):
+    Los constructores de clases son como plantillas o moldes que siven para crear objetos con caracteriaticas similares unos de otros. En vez de crear objeto por objeto que contengan las mismas propiedades se usan las clases.

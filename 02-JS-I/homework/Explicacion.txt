@@ -1,10 +1,15 @@
-* Variables 
+* Variables:
+    Una variable es un contenedor de un valor, puede estar vacio y luego se le puede agregar el valor para usarlo mas tarde.
 
- * Strings
+ * Strings:
+    Una string es una cadena de caracteres como por ejemplo cualquier palabra o frase que queramos escribir y sea reconocida como texto. Se escribe entre comillas.
 
- * Funciones (argumentos, `return`)
+ * Funciones (argumentos, `return`):
+    Las funciones son codigos que hacen tareas automaticamente. Llevan un argumento como valor real para que funcionen y un "return" para que finalicen o muestren un resultado.
 
- * Declaraciones `if`
+ * Declaraciones `if`:
+    Las declaraciones "if" hacen una comparacion de valores que si son verdadero(true) realizan una accion y otra accion si son falso(false).
 
- * Valores booleanos (`true`, `false`)
+ * Valores booleanos (`true`, `false`):
+    El valor booleano es una dato que solo tiene 2 valores: true(verdadero) o false(falso).
  

@@ -1,0 +1,10 @@
+for:
+    El for es un bucle que compara una variable con una valor y se repite hasta encontrar una solución o hasta que finaliza.
+
+
+&&, ||, !:
+    Son operadores logicos y se usan para preguntar si dos expresiones son iguales y devolver un valor true o false.
+    En el caso del "and" (&&) las dos expresiones tienen que ser verdaderas para que sea true.
+    En el caso del "or" (||) si una de las expresiones es verdaderas es suficiente para que sea true.
+    En el caso del "not" (!) siempre devuelve lo contrario de la expresion. Por ejemplo si es true devuelve false.
+    
